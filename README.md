@@ -1,2 +1,3 @@
 # Hello-World
-Not another repository
+
+Stuff about me; I'm a chef working on a career shift
